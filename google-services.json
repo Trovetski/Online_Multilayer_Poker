@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "998587588708",
+    "firebase_url": "https://simplecardgame-a0973-default-rtdb.firebaseio.com",
+    "project_id": "simplecardgame-a0973",
+    "storage_bucket": "simplecardgame-a0973.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998587588708:android:f71c3919d56b61a4d5bf71",
+        "android_client_info": {
+          "package_name": "com.example.simplecardgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998587588708-qpdqpnb5ef0phht0ocdi8q74na39bv2i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.simplecardgame",
+            "certificate_hash": "79b9a910e2ae94795057b52dc62b00f0bef7a502"
+          }
+        },
+        {
+          "client_id": "998587588708-ms9355slc9gl861227o89l4e6lq6dnqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCRQuI1Sap8UOHRsiL_kZLKVWByv2J7lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998587588708-ms9355slc9gl861227o89l4e6lq6dnqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
